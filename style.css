@@ -8,7 +8,7 @@
 }
 
 .menu li{
-  float : left;
+  float : center;
   display : inline;
   padding : 0 0.5em;
 }
