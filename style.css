@@ -3,21 +3,16 @@
   border : 2px;
 }
 
-/*
-ul {
+ul#menu {
   list-style-type:none;
 }
 
-li {
+li#menu {
   display : inline;
   padding : 0 0.5em;
 }
-*/
 
-.menu {
-  list-style-type:none;
-  display : inline;
-  padding : 0 0.5em;
+ul li a {
   text-align:center;
   padding:5px;
   border:2px solid;
