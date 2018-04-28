@@ -17,4 +17,7 @@ li {
   list-style-type:none;
   display : inline;
   padding : 0 0.5em;
+  text-align:center;
+  padding:5px;
+  border:2px solid;
 }
