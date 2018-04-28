@@ -1,11 +1,17 @@
-.En-tête
-{
+.En-tête {
   text-align : center;
 }
 
-.menu
-{
+ul {
+  padding:0;
+  margin:0;
   list-style-type:none;
+  }
+li {
+  margin-left:2px;
+  }
+
+.menu {
   display:block;
   float:left;   
   width:100px;
