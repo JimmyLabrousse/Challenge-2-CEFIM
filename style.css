@@ -7,7 +7,7 @@ ul.menu {
   list-style-type:none;
 }
 
-ul.menu li{
+.menu li{
   float : left;
   display : inline;
   padding : 0 0.5em;
