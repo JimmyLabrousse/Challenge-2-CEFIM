@@ -3,11 +3,11 @@
   border : 2px;
 }
 
-ul#menu {
+ul.menu {
   list-style-type:none;
 }
 
-li#menu {
+li.menu {
   display : inline;
   padding : 0 0.5em;
 }
