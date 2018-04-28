@@ -11,7 +11,7 @@ li {
   margin-left:2px;
   }
 
-.menu {
+ul li a {
   display:block;
   float:left;   
   width:100px;
