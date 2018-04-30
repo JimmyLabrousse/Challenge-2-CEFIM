@@ -1,0 +1,32 @@
+<html>
+<head>
+    <title>Fourchette</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <link rel="stylesheet" type="text/css" href="styleIndex.css"/>
+	<link rel="icon" type="image/png" href="favicon.ico" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+</head>
+
+<body>
+	<div id ="bordureBody">
+		Bienvenue sur le site Fourchette !<br />
+	</div>
+	
+	<br />
+	
+	<div id="bordureBody">
+	Accéder à l'accès membre :<br />
+		<form action="" method="post">
+<table>
+	<tr>
+			<td>Identifiant :</td><td><input type="text" name="login" value="<?php if (isset($_POST['login'])) echo htmlspecialchars($_POST['login']); ?>"></td>
+	</tr>
+	<tr>
+			<td>Mot de passe :</td><td><input type="password" name="mdp" value="<?php if (isset($_POST['mdp'])) echo htmlspecialchars($_POST['mdp']); ?>"></td>
+	</tr>
+</table>
+			<input type="submit" name="bouton_connexion" value="Connexion">
+		</form>
+	</div>
+</body>
+</html>
