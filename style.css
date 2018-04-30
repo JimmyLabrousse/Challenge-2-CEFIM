@@ -22,3 +22,8 @@ ul li a {
   text-decoration : none;
 }
 
+.sous-titre {
+  fond-size : large;
+  fond-weight : bold;
+  text-decoration: underline;
+}
