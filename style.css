@@ -23,7 +23,7 @@ ul li a {
 }
 
 .sous-titre {
-  fond-size : large;
+  font-size : large;
   fond-weight : bold;
   text-decoration: underline;
   text-align : center;
