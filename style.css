@@ -28,3 +28,8 @@ ul li a {
   text-decoration: underline;
   text-align : center;
 }
+
+.image {
+  margin-left: auto;
+   margin-right: auto;
+}
