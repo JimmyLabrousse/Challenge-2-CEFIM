@@ -4,7 +4,8 @@
 }
 
 .menu ul {
-  margin : 4px;
+  margin-left: auto;
+  margin-right: auto;
   list-style-type : none;
   border : 2px solid;
 }
