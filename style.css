@@ -11,8 +11,7 @@
 }
 
 .menu li { 
-  margin-left: auto;
-  margin-right: auto;
+  margin : 4px;
   text-align : center;
   float : center;
   display : inline;
