@@ -4,14 +4,15 @@
 }
 
 .menu ul {
-  padding : 2px;
-  margin : 4px;
+  
   list-style-type : none;
 }
 
 .menu li { 
   border : 2px solid;
   text-align : center;
+  padding : 2px;
+  margin : 4px;
   float : center;
   display : inline;
 }
