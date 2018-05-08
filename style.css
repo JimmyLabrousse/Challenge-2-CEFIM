@@ -5,13 +5,12 @@
 
 .menu ul {
   padding : 2px;
- 
+  margin : 4px;
   list-style-type : none;
   border : 2px solid;
 }
 
 .menu li { 
-  margin : 4px;
   text-align : center;
   float : center;
   display : inline;
