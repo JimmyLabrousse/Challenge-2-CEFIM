@@ -3,7 +3,7 @@ body {
 }
 
 .En-tête {
-  background-image : url("https://zupimages.net/up/18/19/1ojy.png");
+  background-image : url("https://zupimages.net/up/18/19/1ojy.png") no-repeat;
   background-color : #000000;
   color : #ffffff;
   text-align : center;
