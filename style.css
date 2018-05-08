@@ -5,6 +5,7 @@ body {
 .En-tête {
   background-image : url("https://zupimages.net/up/18/19/1ojy.png");
   background-repeat : no-repeat;
+  background-size: contain;
   background-color : #000000;
   color : #ffffff;
   text-align : center;
