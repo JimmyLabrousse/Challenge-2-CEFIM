@@ -4,17 +4,18 @@
 }
 
 .menu ul {
-  margin-left: auto;
-  margin-right: auto;
+  padding : 2px;
+ 
   list-style-type : none;
   border : 2px solid;
 }
 
-.menu li {
+.menu li { 
+  margin-left: auto;
+  margin-right: auto;
   text-align : center;
   float : center;
   display : inline;
-  padding : 2px;
 }
 
 .menu a {
