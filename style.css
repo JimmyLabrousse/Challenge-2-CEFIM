@@ -7,10 +7,10 @@
   padding : 2px;
   margin : 4px;
   list-style-type : none;
-  border : 2px solid;
 }
 
 .menu li { 
+  border : 2px solid;
   text-align : center;
   float : center;
   display : inline;
