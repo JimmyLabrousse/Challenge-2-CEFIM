@@ -1,6 +1,6 @@
 .En-tête {
- /*background-image : url("http://zupimages.net/viewer.php?id=18/19/1ojy.png");*/
-  background-color : red;
+  background-image : url("http://zupimages.net/viewer.php?id=18/19/1ojy.png");
+  background-color : #000000;
   text-align : center;
   border : 2px solid;
 }
@@ -39,5 +39,6 @@
 }
 
 .titre-image {
-  text-align : center; 
+  text-align : center;
+  text-decoration: underline;
 }
