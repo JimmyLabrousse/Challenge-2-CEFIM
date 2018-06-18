@@ -77,7 +77,19 @@ body {
    background: #ddd
 }
 
-#afficher:target #competences {
+.masquer {
+   display:none;
+}
+
+#afficher-competences:target .masquer {
+   display:inline;
+}
+
+#afficher-competences:target .afficher {
+   display:none;
+}
+
+#afficher-competences:target #competences {
    display:block
 }
 
