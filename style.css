@@ -46,6 +46,9 @@ body {
   width : 70%; 
 }  
 
+/* --CV-- */
+/* --Formations--*/
+
 #formations {
    display:none;
    background: #ddd
@@ -67,6 +70,14 @@ body {
    display:block
 }
 
+
+/* Competences*/
+#competences {
+   display:none;
+   background: #ddd
+}
+
 #afficher:target #competences {
    display:block
 }
+
