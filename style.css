@@ -33,17 +33,10 @@ body {
 .sous-titre {
   font-size : 20px;
   font-weight : bold;
-  text-decoration: underline;
   text-align : center;
 }
-
-/*.image {
-  
-  display : block;
-}*/
 
 .centre-image {
   margin: 5px auto;
   text-align : center;
-  text-decoration: underline;
 }
