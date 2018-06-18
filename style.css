@@ -45,3 +45,20 @@ body {
   margin : 0 auto;
   width : 70%; 
 }  
+
+#formations {
+   display:none;
+   background: #ddd
+}
+#afficher:target #formations {
+   display:block
+}
+.masquer {
+   display:none;
+}
+#afficher:target .masquer {
+   display:inline;
+}
+#afficher:target .afficher {
+   display:none;
+}
