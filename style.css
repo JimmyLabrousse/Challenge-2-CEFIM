@@ -50,15 +50,23 @@ body {
    display:none;
    background: #ddd
 }
-#afficher:target #formations {
-   display:block
-}
+
 .masquer {
    display:none;
 }
+
 #afficher:target .masquer {
    display:inline;
 }
+
 #afficher:target .afficher {
    display:none;
+}
+
+#afficher:target #formations {
+   display:block
+}
+
+#afficher:target #competences {
+   display:block
 }
